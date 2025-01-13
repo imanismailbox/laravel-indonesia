@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Itix\LaravelIndonesia\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelIndonesiaCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-indonesia';
 
     public $description = 'My command';
 
