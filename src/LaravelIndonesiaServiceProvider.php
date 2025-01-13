@@ -2,9 +2,9 @@
 
 namespace Itix\LaravelIndonesia;
 
+use Itix\LaravelIndonesia\Commands\LaravelIndonesiaCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Itix\LaravelIndonesia\Commands\LaravelIndonesiaCommand;
 
 class LaravelIndonesiaServiceProvider extends PackageServiceProvider
 {
